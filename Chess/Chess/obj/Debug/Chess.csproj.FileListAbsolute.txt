@@ -1,0 +1,10 @@
+C:\Users\150201001\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\150201001\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\150201001\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\150201001\source\repos\Chess\Chess\obj\Debug\Chess.pdb
